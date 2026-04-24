@@ -8,10 +8,10 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-2.0-blue?style=for-the-badge)](https://github.com/KorocheVolgin/YouTube-Cloude)
+[![Version](https://img.shields.io/badge/version-2.0-blue?style=for-the-badge)](https://github.com/Hinderchik/YouTube-Cloude-Fork)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7+-yellow?style=for-the-badge&logo=python)](https://python.org)
-[![Platform](https://img.shields.io/badge/platform-Termux%20%7C%20Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=for-the-badge)](https://github.com/KorocheVolgin/YouTube-Cloude)
+[![Platform](https://img.shields.io/badge/platform-Termux%20%7C%20Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=for-the-badge)](https://github.com/Hinderchik/YouTube-Cloude-Fork)
 
 <br>
 
@@ -41,7 +41,7 @@
 
 [<kbd> <br> 🚀 Быстрый старт <br> </kbd>](#-быстрый-старт)
 [<kbd> <br> 📖 Как работает <br> </kbd>](#-как-это-работает)
-[<kbd> <br> ⭐ Поставить звезду <br> </kbd>](https://github.com/KorocheVolgin/YouTube-Cloude)
+[<kbd> <br> ⭐ Поставить звезду <br> </kbd>](https://github.com/Hinderchik/YouTube-Cloude-Fork)
 
 </div>
 
@@ -636,9 +636,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <br>
 
-https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Uses-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
-https://img.shields.io/badge/Works%20on-Termux-000000?style=for-the-badge&logo=android&logoColor=white
+![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Uses-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Termux](https://img.shields.io/badge/Works%20on-Termux-000000?style=for-the-badge&logo=android&logoColor=white)
 
 <br>
 
