@@ -556,47 +556,29 @@ python youtube_storage_fixed.py
 
 ---
 
-🤝 Вклад в проект
+## ⭐ Поддержать проект
 
 <div align="center">
 
-Понравился проект? Поставь звезду! ⭐
-
-https://img.shields.io/github/stars/KorocheVolgin/YouTube-Cloude?style=social
+[![Star](https://img.shields.io/github/stars/Hinderchik/YouTube-Cloude-Fork?style=for-the-badge&logo=github&label=Поставь%20звезду&color=yellow)](https://github.com/Hinderchik/YouTube-Cloude-Fork)
 
 <br>
 
-Нашли баг? Есть идея?
-
-<kbd> 
- 🐛 Создать Issue 
- </kbd>
-<kbd> 
- 🔀 Pull Request 
- </kbd>
+[🐛 Issues](https://github.com/Hinderchik/YouTube-Cloude-Fork/issues) ·
+[🔀 Pull Requests](https://github.com/Hinderchik/YouTube-Cloude-Fork/pulls) ·
+[📖 Оригинал](https://github.com/KorocheVolgin/YouTube-Cloude)
 
 </div>
 
 ---
 
-👤 Автор
+## 👤 Авторы
 
-<div align="center">
+### Оригинальный проект
+[KorocheVolgin](https://github.com/KorocheVolgin) — автор [YouTube-Cloude](https://github.com/KorocheVolgin/YouTube-Cloude)
 
-KorocheVolgin
-
-<br>
-
-https://img.shields.io/badge/GitHub-KorocheVolgin-181717?style=for-the-badge&logo=github
-
-</div>
-
----
-
-## 👥 Благодарности
-
-- [KorocheVolgin](https://github.com/KorocheVolgin) — автор оригинального проекта [YouTube-Cloude](https://github.com/KorocheVolgin/YouTube-Cloude)
-- Этот форк добавляет исправления и улучшения для работы в Termux
+### Форк и доработки
+[Hinderchik](https://github.com/Hinderchik) — исправления, Termux-поддержка, безопасность
 
 ---
 
